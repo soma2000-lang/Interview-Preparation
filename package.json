@@ -6,7 +6,7 @@
     "csv-parse": "^5.5.6",
     "dotenv": "^16.4.5",
     "ffmpeg": "^0.0.4",
-    "multer": "^1.4.5-lts.1",
+    "multer": "^2.0.1",
     "path": "^0.12.7",
     "prisma": "^5.19.1",
     "upstox-js-sdk": "^2.9.0"
